@@ -1,0 +1,7 @@
+{
+	"name": "Moocon USDC",
+	"symbol": "mUSDC",
+	"description": "mUSDC represents a USDC deposit position in the Moocon prize savings protocol.",
+	"image": "https://raw.githubusercontent.com/Sniezka1927/tokens-metadata/main/icons/token-pusdc-512.png",
+	"external_url": "https://moocon.xyz"
+}
