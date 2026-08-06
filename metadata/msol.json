@@ -2,6 +2,5 @@
 	"name": "Moocon SOL",
 	"symbol": "mSOL",
 	"description": "mSOL represents a SOL deposit position in the Moocon prize savings protocol.",
-	"image": "https://raw.githubusercontent.com/Sniezka1927/tokens-metadata/main/icons/token-sol-512.png",
-	"external_url": "https://moocon.xyz"
+	"image": "https://raw.githubusercontent.com/Sniezka1927/tokens-metadata/main/icons/token-sol-512.png"
 }
